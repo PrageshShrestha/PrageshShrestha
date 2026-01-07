@@ -1,73 +1,70 @@
-peakpx.compresentationgo.com
+# 🚀 [SYSTEM BOOT SEQUENCE INITIATED]
 
-text[SYSTEM BOOT SEQUENCE INITIATED]
-[DATE: 2026-01-07] [LOCATION: Kathmandu University Neural Lab]
-Loading profile module: ai_deep_learning_enthusiast v1.0.0
+`DATE: 2026-01-07`  
+`LOCATION: Kathmandu University Neural Lab`  
+`STATUS: Online & Eager to Learn`
 
-Collecting passion-for-ai
-  Downloading passion_for_ai-∞.∞.∞.whl (from heart)
-Collecting pytorch>=2.0
-  Using cached pytorch-2.4.0-cu121.txz
-Collecting transformers
-  Requirement already satisfied: huggingface_hub in ./lib
-Collecting cuda-toolkit
-  Building wheel for cuda-optimism (PEP 517) ... done
+---
 
-Installing collected packages:
-  pytorch, transformers, hugging-face, cuda, numpy, pandas, scikit-learn
-Successfully installed deep-learning-stack v2026
+## 🛠️ Toolkit Inventory
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Transformers-yellow) 
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-[INITIALIZATION COMPLETE]
-[STATUS: Online and eager to learn]
-I am an undergraduate student at Kathmandu University, currently immersed in the world of artificial intelligence, deep learning, and machine learning.
-text[CORE MODULES LOADING...]
-Current Focus Areas
+---
 
-Fine-tuning Transformer models for NLP, computer vision, and multimodal applications
-Building optimized training pipelines with mixed-precision in PyTorch
-Implementing custom components and turning research ideas into code
-Exploring real-world deep learning applications through projects
+## 🛰️ Profile Overview
+I am an undergraduate student at **Kathmandu University**, currently immersed in the world of Artificial Intelligence, Deep Learning, and Machine Learning. I specialize in turning research-heavy concepts into optimized, functional code.
 
-text[SKILL MATRIX SCANNING... 78% COMPLETE]
-Skills in Active Development
+### 🧠 Current Focus Areas
+* **Transformer Fine-tuning:** NLP, Computer Vision, and Multimodal applications.
+* **Optimization:** Building training pipelines with **Mixed-Precision** in PyTorch.
+* **Research to Code:** Implementing custom components and reproducing SOTA papers.
+* **Applications:** Exploring real-world deep learning deployments.
 
-Expanding PyTorch knowledge: custom modules, autograd, scripting, distributed basics
-Deep dives into Hugging Face: LoRA, quantization, efficient fine-tuning
-CUDA programming for faster training and inference
-Full ML pipelines: data prep, training, evaluation, experimentation
+---
 
-text[COLLABORATION PROTOCOL ACTIVE]
-Collaboration Interests
+## 📈 Skill Matrix (78% Complete)
+* **Advanced PyTorch:** Custom modules, Autograd, Scripting, and Distributed basics.
+* **Hugging Face Ecosystem:** LoRA, Quantization, and efficient fine-tuning.
+* **Low-Level Ops:** CUDA programming for accelerated training and inference.
+* **Full ML Pipelines:** Data prep → Training → Evaluation → Experimentation.
 
-Open-source contributions to PyTorch/Hugging Face ecosystems
-Reproducing state-of-the-art papers and extending ideas
-Building specialized models and efficient inference systems
-Joining applied ML and data science initiatives
+---
 
-text[GUIDANCE REQUEST MODULE]
-Areas Seeking Guidance
+## 🤝 Collaboration Protocol
+**I am actively looking to connect on:**
+* Open-source contributions to **PyTorch** and **Hugging Face**.
+* Reproducing State-of-the-art (SOTA) papers.
+* Building specialized models and efficient inference systems.
+* Applied ML and Data Science initiatives.
 
-Multi-GPU/cluster scaling strategies
-Memory optimization for large models
-Structured MLOps pipelines and monitoring
-Implementing advanced research in clean PyTorch
+---
 
-text[COMMUNICATION CHANNELS OPEN]
-Topics Available for Discussion
+## 🔍 Areas Seeking Guidance
+* Multi-GPU and Cluster scaling strategies.
+* Memory optimization for LLMs and large-scale models.
+* Structured **MLOps** pipelines and real-time monitoring.
+* Clean-code implementations of advanced research papers.
 
-PyTorch optimization and best practices
-Transformer mechanics and fine-tuning techniques
-Quantization and deployment strategies
-Custom CUDA development
-ML theory, experiment design, data analysis
+---
 
-python.landPip Install: How To Install and Remove Python Packages • Python ...
-text[TOOLKIT INVENTORY]
-PyTorch | Transformers | Hugging Face | CUDA | Python
-NumPy | Pandas | Scikit-learn
-Machine Learning | Deep Learning | Data Science
+## 💬 Let's Discuss
+* PyTorch optimization & best practices.
+* Transformer mechanics & fine-tuning techniques.
+* Quantization & deployment strategies.
+* Custom CUDA development.
+* ML theory and experiment design.
 
-[SYSTEM READY]
-Continuously training new models and expanding knowledge.
-If you're working on an interesting AI challenge or project — let's connect and build the future together.
-text[END OF TRANSMISSION]
+---
+
+### [SYSTEM READY]
+*Continuously training new models and expanding knowledge.*
+
+**If you're working on an interesting AI challenge — let's connect and build the future together.**
+
+[END OF TRANSMISSION]
