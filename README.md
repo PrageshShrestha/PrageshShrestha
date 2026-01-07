@@ -1,4 +1,3 @@
-# 💻 [TERMINAL INTERFACE]
 
 ```ansi
 [1;32m(helloworld) user@desktop:~$ 
